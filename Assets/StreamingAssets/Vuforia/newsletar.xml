@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="firstpage" size="10.000000 14.144272" />
+    <ImageTarget name="newseightpage" size="10.000000 14.144272" />
+    <ImageTarget name="newsseventhpage" size="10.000000 14.144272" />
+    <ImageTarget name="newssixthpage" size="10.000000 14.144272" />
+    <ImageTarget name="moviefifthpage" size="10.000000 14.144272" />
+    <ImageTarget name="gameseventhpage" size="10.000000 14.144272" />
+    <ImageTarget name="rentsecondpage" size="10.000000 14.144272" />
+  </Tracking>
+</QCARConfig>
